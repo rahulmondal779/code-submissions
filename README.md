@@ -185,6 +185,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -206,6 +207,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0437-path-sum-iii) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Greedy
@@ -216,4 +218,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
