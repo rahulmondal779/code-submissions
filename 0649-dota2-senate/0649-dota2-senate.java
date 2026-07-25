@@ -1,7 +1,7 @@
 class Solution {
     public String predictPartyVictory(String senate) {
-        Deque<Integer> radiant = new ArrayDeque<>();
-        Deque<Integer> dire = new ArrayDeque<>();
+        Queue<Integer> radiant = new ArrayDeque<>();
+        Queue<Integer> dire = new ArrayDeque<>();
         int n = senate.length();
 
         for (int i = 0; i < senate.length(); i++) {
@@ -23,10 +23,6 @@ class Solution {
             }
         }
 
-        if (!radiant.isEmpty()) {
-            return "Radiant";
-        } else {
-            return "Dire";
-        }
+        return radiant.isEmpty() ? "Dire" : "Radiant";
     }
 }
