@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1260-shift-2d-grid) |
@@ -104,6 +105,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -158,6 +160,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
