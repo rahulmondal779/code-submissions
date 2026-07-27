@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1207-unique-number-of-occurrences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -107,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -237,4 +239,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
