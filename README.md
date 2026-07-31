@@ -71,6 +71,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
@@ -129,6 +130,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -236,6 +238,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,4 +247,8 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
