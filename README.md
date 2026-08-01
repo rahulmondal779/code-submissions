@@ -158,6 +158,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 ## Number Theory
 |  |
@@ -251,4 +252,8 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
