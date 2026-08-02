@@ -53,6 +53,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -158,6 +159,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 ## Number Theory
