@@ -57,6 +57,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -165,6 +166,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Number Theory
 |  |
