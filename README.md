@@ -244,6 +244,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0338-counting-bits) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -268,4 +269,8 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
