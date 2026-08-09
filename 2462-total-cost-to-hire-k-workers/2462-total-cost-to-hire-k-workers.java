@@ -15,9 +15,9 @@ class Solution {
                 rightCandidates.offer(costs[right--]);
             }
 
-            int leftCost = leftCandidates.size() > 0 ? leftCandidates.peek() : Integer.MAX_VALUE;
-            int rightCost = rightCandidates.size() > 0 ? rightCandidates.peek() : Integer.MAX_VALUE;
-
+            int leftCost = !leftCandidates.isEmpty() ? leftCandidates.peek() : Integer.MAX_VALUE;
+            int rightCost = !rightCandidates.isEmpty() ? rightCandidates.peek() : Integer.MAX_VALUE;
+            
             if (leftCost <= rightCost) {
                 totalCost+=leftCost;
                 leftCandidates.poll();
