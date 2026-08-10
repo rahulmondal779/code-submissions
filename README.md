@@ -123,6 +123,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [0394-decode-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
@@ -138,6 +139,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -148,6 +150,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
@@ -239,6 +242,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
