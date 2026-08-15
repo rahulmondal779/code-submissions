@@ -53,6 +53,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
@@ -175,6 +176,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
@@ -270,6 +272,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
