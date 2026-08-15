@@ -131,6 +131,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0394-decode-string) |
 ## Enumeration
@@ -156,6 +157,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -186,6 +188,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0328-odd-even-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
