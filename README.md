@@ -54,6 +54,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [0001-two-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0136-single-number](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
@@ -291,4 +292,8 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [0136-single-number](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0338-counting-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
