@@ -66,6 +66,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [1207-unique-number-of-occurrences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -79,6 +80,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0001-two-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -245,6 +247,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [0649-dota2-senate](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [2542-maximum-subsequence-score](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
@@ -293,6 +296,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [0136-single-number](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0338-counting-bits) |
+| [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 ## Backtracking
 |  |
 | ------- |
