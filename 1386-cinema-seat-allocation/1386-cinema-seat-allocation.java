@@ -1,27 +1,27 @@
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-        Map<Integer, List<Integer>> seatReservedAndRowMapping = new HashMap<>();
+        Map<Integer, List<Integer>> rowAndSeatReservedMapping = new HashMap<>();
         boolean groupA = true;
         boolean groupB = true;
         boolean groupC = true;
 
         for(int[] seat : reservedSeats) {
-            if(!seatReservedAndRowMapping.containsKey(seat[0])){
-                seatReservedAndRowMapping.put(seat[0], new ArrayList<>());
+            if(!rowAndSeatReservedMapping.containsKey(seat[0])){
+                rowAndSeatReservedMapping.put(seat[0], new ArrayList<>());
             }
 
-            seatReservedAndRowMapping.get(seat[0]).add(seat[1]);
+            rowAndSeatReservedMapping.get(seat[0]).add(seat[1]);
         }
 
         int group = 0;
         int reservedSeatRowcount = 0;
 
-        for(int reserverSeatRow : seatReservedAndRowMapping.keySet()) {
+        for(int reservedSeatRow : rowAndSeatReservedMapping.keySet()) {
             groupA = true;
             groupB = true;
             groupC = true;
             reservedSeatRowcount++;
-            for(int reservedSeat : seatReservedAndRowMapping.get(reserverSeatRow)) {
+            for(int reservedSeat : rowAndSeatReservedMapping.get(reservedSeatRow)) {
                 if (reservedSeat == 2 || reservedSeat == 3 || reservedSeat == 4 || reservedSeat == 5) {
                     groupA = false;
                 }
