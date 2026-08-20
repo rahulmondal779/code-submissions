@@ -73,6 +73,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2542-maximum-subsequence-score) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
