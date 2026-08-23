@@ -89,6 +89,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -175,6 +176,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
