@@ -61,6 +61,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
@@ -131,6 +132,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
