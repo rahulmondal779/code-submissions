@@ -56,6 +56,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0040-combination-sum-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
@@ -82,6 +83,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
@@ -214,6 +216,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0437-path-sum-iii) |
@@ -245,6 +248,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0437-path-sum-iii) |
@@ -290,6 +294,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
