@@ -88,6 +88,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
@@ -99,6 +100,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0649-dota2-senate](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -314,6 +316,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0136-single-number](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -323,4 +326,8 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
