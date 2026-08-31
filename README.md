@@ -79,6 +79,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [2462-total-cost-to-hire-k-workers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2542-maximum-subsequence-score) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [2215-find-the-difference-of-two-arrays](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [3536-maximum-product-of-two-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
