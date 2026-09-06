@@ -195,6 +195,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -221,6 +222,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0328-odd-even-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
