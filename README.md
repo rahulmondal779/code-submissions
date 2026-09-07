@@ -61,6 +61,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0152-maximum-product-subarray](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -277,6 +278,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0649-dota2-senate](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
@@ -345,4 +347,8 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2615-sum-of-distances](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2615-sum-of-distances) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
