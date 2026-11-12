@@ -83,6 +83,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [2542-maximum-subsequence-score](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2542-maximum-subsequence-score) |
 | [2615-sum-of-distances](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2615-sum-of-distances) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
