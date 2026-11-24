@@ -84,6 +84,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [2615-sum-of-distances](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2615-sum-of-distances) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -168,6 +169,7 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1291-sequential-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -220,6 +223,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -358,4 +362,8 @@ Python For Beginners/python-hello-world/submission-0.py
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
