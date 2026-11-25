@@ -70,6 +70,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [1260-shift-2d-grid](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -175,6 +176,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [0901-online-stock-span](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
@@ -186,12 +188,14 @@ Python For Beginners/python-hello-world/submission-0.py
 | ------- |
 | [0901-online-stock-span](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -356,6 +360,7 @@ Python For Beginners/python-hello-world/submission-0.py
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2615-sum-of-distances](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2615-sum-of-distances) |
 ## Longest Increasing Subsequence
