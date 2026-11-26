@@ -148,6 +148,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -197,6 +198,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [0633-sum-of-square-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
