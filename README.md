@@ -113,6 +113,7 @@ Python For Beginners/python-hello-world/submission-0.py
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/rahulmondal779/neetcode-submissions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/rahulmondal779/neetcode-submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rahulmondal779/neetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
